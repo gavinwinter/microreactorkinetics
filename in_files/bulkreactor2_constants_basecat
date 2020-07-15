@@ -1,0 +1,23 @@
+# Define reaction constants
+# Bulk-scale reactor constants
+#--------------------------------------------------------------
+# reaction rate constants (derived experimentally) - paper 2 (in L^2/mol^2-s)
+k1 = 5.10e-2
+k1r = 3.98e-1
+k2 = 5.42e-1
+k2r = 9.58e-1
+k3 = 9.00e-3
+k3r = 1.50e-5
+
+# TG: triglyceride, DG: diglyceride, MG: monoglyceride, CAT: KOH
+# G: glycerol, EE: ethyl ester
+
+# mass transport coefficients (in m/s)
+kLTG = 1.00e-5
+kLDG = 1.00e-5
+kLMG = 1.00e-5
+
+# interfacial area (in m^2/m^3)
+aTG = 8365
+aDG = 8365
+aMG = 8365

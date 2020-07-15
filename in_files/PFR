@@ -1,0 +1,11 @@
+# Indicate reactor network type (i.e. series or parallel)
+network_type = series
+
+#--------------------------------------------------------------
+# Indicate reactor type (i.e. PFR or CSTR)
+# Indicate flow rate (in L/s)
+v0 = 0.00000277777
+
+# Indicate reactor volume (in L)
+Reactor = PFR
+Volume = 7.64e-05

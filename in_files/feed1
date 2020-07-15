@@ -1,0 +1,26 @@
+# Indicate initial concentration (in mol/L)
+#--------------------------------------------------------------
+# Species in Alcohol phase
+# Triglyceride
+cTGE = 0
+# Diglyceride
+cDGE = 0
+# Diglyceride
+cMGE = 0
+# Catalyst
+cCAT = 0.144
+# Ethanol
+cEtOH = 3.9
+# Alkyl ester
+cEE = 0
+# Glycerol
+cG = 0
+
+#--------------------------------------------------------------
+# Species in Oil phase
+# Triglyceride
+cTGO = 0.65 
+# Diglyceride
+cDGO = 0
+# Monoglyceride
+cMGO = 0

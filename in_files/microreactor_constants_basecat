@@ -1,0 +1,23 @@
+# Define reaction constants
+# Microreactor constants
+#--------------------------------------------------------------
+# reaction rate constants (derived experimentally) (in L^2/mol^2-s)
+k1 = 2.45e-1
+k1r = 8.65e-11
+k2 = 1.22e-1
+k2r = 3.75e-2
+k3 = 5.37e-2
+k3r = 1.26e-2
+
+# TG: triglyceride, DG: diglyceride, MG: monoglyceride, CAT: KOH
+# G: glycerol, EE: ethyl ester
+
+# mass transport coefficients (in m/s)
+kLTG = 1.00e-5
+kLDG = 1.00e-5
+kLMG = 1.00e-5
+
+# interfacial area (in m^2/m^3)
+aTG = 8365
+aDG = 8365
+aMG = 8365
